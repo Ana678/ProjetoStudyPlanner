@@ -1,0 +1,5 @@
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: rgb(221,88,88);
+  background-color: rgba(242,236,236,0.55);
+}
+
